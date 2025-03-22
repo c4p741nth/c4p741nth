@@ -57,7 +57,7 @@ I'm passionate about:
 ---
 
 ## **📊 GitHub Stats**
-[![c4p741nth's GitHub stats]([https://github-readme-stats-delta-dun-10.vercel.app/api?username=c4p741nth&show_icons=true&theme=dark](https://github-readme-stats-39k1kuu0p-c4p741ns-projects.vercel.app/api?show_icons=true&username=c4p741nth&theme=dark&include_all_commits=true))](https://github.com/anuraghazra/github-readme-stats)
+[![c4p741nth's GitHub stats](https://github-readme-stats-39k1kuu0p-c4p741ns-projects.vercel.app/api?show_icons=true&username=c4p741nth&theme=dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <details>
