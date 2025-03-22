@@ -46,7 +46,7 @@ I'm passionate about:
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Canva](https://img.shields.io/badge/Canva-65C7CE?style=for-the-badge&logo=canva&logoColor=FFFFFF)
 
 **Design & UI/UX**
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Multimedia Editing**
 ![MAGIX Vegas](https://img.shields.io/badge/MAGIX%20Vegas-008AFF?style=for-the-badge&logo=vegas&logoColor=white)![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
@@ -70,18 +70,19 @@ I'm passionate about:
 
 ### 🎵 **Rhythm Games / VSRG**
   
-  [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white)](https://osu.ppy.sh/users/7892722 (C4P741N)) modes: **osu! / Taiko / Catch the Beat / Mania** (*4K main, 7K secondary*)
+  [![osu!](https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white)](https://osu.ppy.sh/users/7892722 (C4P741N)) modes: **osu! / Taiko / Catch the Beat / Mania** (*4K main, 7K secondary*) 
 
 ### 🔫 **FPS / Tactical Shooters**  
-[![Valorant](https://img.shields.io/badge/Valorant-D14836?style=for-the-badge&logo=valorant&logoColor=white)](# "C4P741N#3625")[![Counter-Strike](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](#)[![Battlefield](https://img.shields.io/badge/Battlefield%201-003545?style=for-the-badge&logo=ea&logoColor=white)](#)[![Delta Force](https://img.shields.io/badge/Delta%20Force-005F73?style=for-the-badge&logo=ghost&logoColor=white)](#)
+[![Valorant](https://img.shields.io/badge/Valorant-D14836?style=for-the-badge&logo=valorant&logoColor=white)](# "C4P741N#3625")[![Counter-Strike](https://img.shields.io/badge/CS2-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](https://steamcommunity.com/id/c4p741nth/ (C4P741N))![Strinova](https://img.shields.io/badge/Strinova-FF6C37?style=for-the-badge&logo=strinova&logoColor=white (5478807))[![Battlefield](https://img.shields.io/badge/Battlefield%201-003545?style=for-the-badge&logo=ea&logoColor=white)](## "CPT.CAPTAIN")[![Delta Force](https://img.shields.io/badge/Delta%20Force-005F73?style=for-the-badge&logo=ghost&logoColor=white)](https://steamcommunity.com/id/c4p741nth/ (C4P741N))
 
 ### 🎯 **Battle Royale**  
 [![PUBG](https://img.shields.io/badge/PUBG-FF9933?style=for-the-badge&logo=pubg&logoColor=white)](#)[![BloodStrike](https://img.shields.io/badge/BloodStrike-800000?style=for-the-badge&logo=battlefield&logoColor=white)](#)[![Farlight 84](https://img.shields.io/badge/Farlight%2084-4A90E2?style=for-the-badge&logo=gamepad&logoColor=white)](#)  
 
 ### 🖱️ **MOBA**
-[![Honor of Kings](https://img.shields.io/badge/Honor%20of%20Kings-DAA520?style=for-the-badge&logo=honorofkings&logoColor=white)](#)[![RoV](https://img.shields.io/badge/RoV-9400D3?style=for-the-badge&logo=arenaofvalor&logoColor=white)](#)[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-0A1428?style=for-the-badge&logo=league-of-legends&logoColor=yellow)](#)[![Teamfight Tactics](https://img.shields.io/badge/Teamfight%20Tactics-1D4F91?style=for-the-badge&logo=teamfight-tactics&logoColor=white)](#)
+[![Honor of Kings](https://img.shields.io/badge/Honor%20of%20Kings-DAA520?style=for-the-badge&logo=honorofkings&logoColor=white)](#)[![RoV](https://img.shields.io/badge/RoV-9400D3?style=for-the-badge&logo=arenaofvalor&logoColor=white)](#)
+[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-0A1428?style=for-the-badge&logo=league-of-legends&logoColor=yellow)](## "C4P741N#3625")[![Teamfight Tactics](https://img.shields.io/badge/Teamfight%20Tactics-1D4F91?style=for-the-badge&logo=teamfight-tactics&logoColor=white)](## "C4P741N#3625")
 
 
 ### **🎵 Music**
-[![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white)](https://listen.tidal.com/user/199905241)[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-0000FF?style=for-the-badge&logo=musicbrainz&logoColor=orange)](https://listenbrainz.org/user/C4P741N)
+[![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white)](https://listen.tidal.com/user/199905241 (C4P741N))[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-0000FF?style=for-the-badge&logo=musicbrainz&logoColor=orange)](https://listenbrainz.org/user/c4p741nth/ (C4P741N))
 </details>
