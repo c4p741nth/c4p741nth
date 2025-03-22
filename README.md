@@ -16,27 +16,38 @@ I'm passionate about:
 ## **📌 Profile**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/promphiriya-phasuchathunyaphat)[![Credly](https://img.shields.io/badge/Credly-DD6328.svg?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/promphiriya-phasuchathunyaphat)
 
+## **🌏 Languages**
+![Thai](https://img.shields.io/badge/Thai-Native-%2300599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-B1-%2300599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)  
+
+## **📱 Social**
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/311453367371038721)[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/c4p741nth (Promphiriya Phasuchathunyaphat))
+
 ---
 
 ## **💻 Programming Languages**
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-
----
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![UNIX](https://img.shields.io/badge/UNIX-000000?style=for-the-badge)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## **🗄️ Databases**
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-
----
 
 ## **🖥️ Operating Systems**
 ![Fedora KDE](https://img.shields.io/badge/Fedora%20KDE-294172?style=for-the-badge&logo=fedora&logoColor=white)![Kali Linux](https://img.shields.io/badge/Kali%20Linux-B14B91?style=for-the-badge&logo=kalilinux&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)  
 
 
----
-
-## **📱 Social**
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/311453367371038721)[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/c4p741nth)  
-
+## **🛠️ Tools & Software**
+**Version Control**
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
+**API Testing**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Productivity**
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)![Canva](https://img.shields.io/badge/Canva-65C7CE?style=for-the-badge&logo=canva&logoColor=FFFFFF)
+**Design & UI/UX**
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+**Multimedia Editing**
+![MAGIX Vegas](https://img.shields.io/badge/MAGIX%20Vegas-008AFF?style=for-the-badge&logo=vegas&logoColor=white)![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+**Task Management**
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)  
 
 ---
 
@@ -62,8 +73,9 @@ I'm passionate about:
 ### 🎯 **Battle Royale**  
 [![PUBG](https://img.shields.io/badge/PUBG-FF9933?style=for-the-badge&logo=pubg&logoColor=white)](#)[![BloodStrike](https://img.shields.io/badge/BloodStrike-800000?style=for-the-badge&logo=battlefield&logoColor=white)](#)[![Farlight 84](https://img.shields.io/badge/Farlight%2084-4A90E2?style=for-the-badge&logo=gamepad&logoColor=white)](#)  
 
-### 📱 **Mobile Games**  
-[![Honor of Kings](https://img.shields.io/badge/Honor%20of%20Kings-DAA520?style=for-the-badge&logo=honorofkings&logoColor=white)](#)[![RoV](https://img.shields.io/badge/RoV-9400D3?style=for-the-badge&logo=arenaofvalor&logoColor=white)](#)
+### 🖱️ **MOBA**
+[![Honor of Kings](https://img.shields.io/badge/Honor%20of%20Kings-DAA520?style=for-the-badge&logo=honorofkings&logoColor=white)](#)[![RoV](https://img.shields.io/badge/RoV-9400D3?style=for-the-badge&logo=arenaofvalor&logoColor=white)](#)[![League of Legends](https://img.shields.io/badge/League%20of%20Legends-0A1428?style=for-the-badge&logo=league-of-legends&logoColor=yellow)](#)[![Teamfight Tactics](https://img.shields.io/badge/Teamfight%20Tactics-1D4F91?style=for-the-badge&logo=teamfight-tactics&logoColor=white)](#)
+
 
 ### **🎵 Music**
 [![Tidal](https://img.shields.io/badge/Tidal-000000?style=for-the-badge&logo=tidal&logoColor=white)](https://listen.tidal.com/user/199905241)[![ListenBrainz](https://img.shields.io/badge/ListenBrainz-0000FF?style=for-the-badge&logo=musicbrainz&logoColor=orange)](https://listenbrainz.org/user/C4P741N)
