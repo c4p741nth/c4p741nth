@@ -19,7 +19,7 @@ I'm passionate about:
 
 ### **🌏 Languages**
 [![Thai Native](https://img.shields.io/badge/Thai-Native-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)](#)
-[![English Intermediate](https://img.shields.io/badge/English-B1-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)](#)
+[![English Intermediate](https://img.shields.io/badge/English-A2-00599C.svg?style=for-the-badge&logo=google-translate&logoColor=white)](#)
 
 ### **📱 Social**
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/311453367371038721 (c4p741nth))[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/c4p741nth (Promphiriya Phasuchathunyaphat))
